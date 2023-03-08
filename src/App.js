@@ -1,7 +1,9 @@
+import Contacts from "./components/contacts/Contacts";
+
 function App() {
   return (
     <div>
-      veikia
+      <Contacts/>
     </div>
   );
 }
